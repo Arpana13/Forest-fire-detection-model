@@ -1,0 +1,8 @@
+1. Tensorflow Docuementation :- https://www.tensorflow.org/api_docs
+2. keras Documentation :- https://keras.io/api/
+3. Github Repositories for Keras and Tesorflow Projects on Image classification
+   keras :- https://github.com/AvinashNath2/Image-Classification-using-Keras
+   tensorflow :- https://github.com/AxelAli/Tensorflow-Image-Classification
+4. Object detection using Deep Learning in Colab :- https://medium.com/@codetrade/steps-to-train-tensorflow-object-detection-in-google-colab-0346ffa72cbb
+5. Understanding Object detection:- https://towardsdatascience.com/understanding-object-detection-1d810164b8a6
+6. Digikey example project :- https://www.digikey.in/en/videos/d/digi-key-electronics/how-to-perform-object-detection-with-tensorflow-lite-on-raspberry-pi-digi-key-electronics
