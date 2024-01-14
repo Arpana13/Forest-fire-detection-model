@@ -3,7 +3,7 @@ This model is designed and developed to detect four stages offire recognition sy
  ### Level 0 : no wildfire
  ### Level 1: Smoke only
  ### Level 2: Smoke with fire
- ### Level 3: Tremenduos fire
+ ### Level 3: Tremendous fire
 ## The 2 Key features of the model:-
 ### 1.Deep Learning Architecture
 The model uses a CNN (Covolutional Neural Network), which has proven effective in image classification tasks.
